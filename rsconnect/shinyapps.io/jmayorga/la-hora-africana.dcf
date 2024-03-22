@@ -1,0 +1,12 @@
+name: la-hora-africana
+title: la-hora-africana
+username: jmayorga
+account: jmayorga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11551286
+bundleId: 8399320
+url: https://jmayorga.shinyapps.io/la-hora-africana/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
